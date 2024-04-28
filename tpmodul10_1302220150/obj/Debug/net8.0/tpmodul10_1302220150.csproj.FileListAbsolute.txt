@@ -30,3 +30,4 @@ C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\tpmodul10_1302220150\tpmodul10_1302220150\obj\Debug\net8.0\tpmodul10_1302220150.pdb
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\tpmodul10_1302220150\tpmodul10_1302220150\obj\Debug\net8.0\tpmodul10_1302220150.genruntimeconfig.cache
 C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\tpmodul10_1302220150\tpmodul10_1302220150\obj\Debug\net8.0\ref\tpmodul10_1302220150.dll
+C:\Users\haika\OneDrive\Dokumen\KULIAH\SEMESTER 4\Konstruksi Perangkat Lunak\C#\tpmodul10_1302220150\tpmodul10_1302220150\obj\Debug\net8.0\tpmodul10_1302220150.sourcelink.json
