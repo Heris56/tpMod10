@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haika\\OneDrive\\Dokumen\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\C#\\tpmodul10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj": {}
+    "D:\\Mod10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haika\\OneDrive\\Dokumen\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\C#\\tpmodul10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj": {
+    "D:\\Mod10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haika\\OneDrive\\Dokumen\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\C#\\tpmodul10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj",
+        "projectUniqueName": "D:\\Mod10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj",
         "projectName": "tpmodul10_1302220150",
-        "projectPath": "C:\\Users\\haika\\OneDrive\\Dokumen\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\C#\\tpmodul10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj",
-        "packagesPath": "C:\\Users\\haika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haika\\OneDrive\\Dokumen\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\C#\\tpmodul10_1302220150\\tpmodul10_1302220150\\obj\\",
+        "projectPath": "D:\\Mod10_1302220150\\tpmodul10_1302220150\\tpmodul10_1302220150.csproj",
+        "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
+        "outputPath": "D:\\Mod10_1302220150\\tpmodul10_1302220150\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\haika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

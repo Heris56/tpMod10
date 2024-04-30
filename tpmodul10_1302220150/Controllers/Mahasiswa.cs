@@ -11,17 +11,19 @@ namespace tpmodul10_1302220150.Controllers
         {
             public string Nama { get; set; }
             public string NIM { get; set; }
-            
+            public List<String> courses {  get; set; }
+            public int year {  get; set; }
         }
-
-        private static Mahasiswa[] mahasiswas = new Mahasiswa[]
+        
+        public static Mahasiswa[] mahasiswas = new Mahasiswa[]
         {
-            new Mahasiswa { Nama = "Haikal Risnandar", NIM = "1302220150" },
-            new Mahasiswa { Nama = "Dafa Raimi Suandi", NIM = "1302223156" },
-            new Mahasiswa { Nama = "Darryl Frizzangelo Rambi", NIM = "1302223154"},
-            new Mahasiswa { Nama = "Fersya Zufar Muhara", NIM = "1302223090"},
-            new Mahasiswa { Nama = "Raphael Permana Barus", NIM = "1302220140"},
-            new Mahasiswa { Nama = "Mahesa Athaya Zain", NIM = "1302220105"}
+            
+            new Mahasiswa { Nama = "Haikal Risnandar", NIM = "1302220150", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022 },
+            new Mahasiswa { Nama = "Dafa Raimi Suandi", NIM = "1302223156", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022 },
+            new Mahasiswa { Nama = "Darryl Frizzangelo Rambi", NIM = "1302223154", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022},
+            new Mahasiswa { Nama = "Fersya Zufar Muhara", NIM = "1302223090", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022},
+            new Mahasiswa { Nama = "Raphael Permana Barus", NIM = "1302220140", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022},
+            new Mahasiswa { Nama = "Mahesa Athaya Zain", NIM = "1302220105", courses = new List<String>() {"KPL", "PBO", "PT", "Basdat", "UX", "JARKOM" }, year = 2022}
         };
         [HttpGet]
         public IActionResult GetMahasiswa()
